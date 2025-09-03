@@ -1,3 +1,3 @@
 import os
 
-data_files = {"test": "/Users/user/workspace/mrl/final/piqa-sampled-clean-shuffle.csv"}
+data_files = {"test": "/mnt/naplm/users/jungwhan/mrl/final/piqa-sampled-clean-shuffle.csv"}
